@@ -1,5 +1,5 @@
-=== 3D Banner FX ===
-Contributors: flashxml
+=== 3D Banner ===
+Contributors: johnsmith48
 Tags: flash, 3d, banner, images, video, free, widget, css, effects, animation, text, html
 Requires at least: 2.8.0
 Tested up to: 3.0.5
