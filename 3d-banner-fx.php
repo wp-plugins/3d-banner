@@ -3,7 +3,7 @@
 Plugin Name: 3D Banner
 Plugin URI: http://www.flashxml.net/3d-banner.html
 Description: Probably the best 3D Banner on the web. Fully XML customizable, without any Flash knowledge. And it's free!
-Version: 0.6.0
+Version: 1.0.0
 Author: johnsmith48
 Author URI: http://www.flashxml.net/
 License: GPL2
